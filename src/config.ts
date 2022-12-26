@@ -2,7 +2,7 @@ import type { SocialObjects } from "./types";
 
 export const SITE = {
   website: "https://astro-paper.pages.dev/",
-  author: "Sat Naing",
+  author: "Hilmi Mubarok",
   desc: "A minimal, responsive and SEO-friendly Astro blog theme.",
   title: "HilmiCoding",
   ogImage: "astropaper-og.jpg",
