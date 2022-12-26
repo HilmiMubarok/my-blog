@@ -1,7 +1,7 @@
 ---
 title: My recent article 2
 author: Hilmi Mubarok
-datetime: 
+datetime: 2022-12-26T10:26:00Z
 slug: my-recent-2
 featured: false
 draft: false
