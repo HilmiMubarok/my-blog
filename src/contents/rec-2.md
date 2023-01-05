@@ -1,8 +1,8 @@
 ---
-title: My recent article 2
+title: My recent article 3
 author: Hilmi Mubarok
 datetime: 2022-12-26T10:26:00Z
-slug: my-recent-2
+slug: my-recent-3
 featured: false
 draft: false
 tags:
